@@ -1,8 +1,10 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Enrique Giménez",
+  "author": "Enrique Gimenez fenriquegimenez@gmail.com",
+  "description": "A project made to practice nodejs",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "2.10.2"
   },
   "main": "server.js",
   "scripts": {
@@ -14,5 +16,13 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  }
+  },
+  "keywords": [
+    "learning",
+    "freecodecamp",
+    "nodejs",
+    "express"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
 }
